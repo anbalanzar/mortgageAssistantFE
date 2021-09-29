@@ -46,10 +46,12 @@
                     <input type={f.type} required={f.required} name={f.name}
                     on:change={() => {toggleDisable(false)}}>
                     {f.answer}
+                    {#if isDisabled !== true}
                     <div>
                         <div>{f.moreLabel ? f.moreLabel : ""}</div>
                         <input type="text" name={f.name} disabled={isDisabled}/>
                     </div>
+                    {/if}
                 </label>
             </div>
             {/if}
