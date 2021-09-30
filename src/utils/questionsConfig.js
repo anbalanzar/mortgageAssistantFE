@@ -3796,7 +3796,7 @@ export const questions = {
         ]
     },
     applicantDeclaration: {
-        header: "DECLARATION: By signing this application I certify that the information I/We provided in this application for assistance is CORRECT and FACTUAL.  No information has been withheld.  We understand the necessity for accurate and complete information and we will provide any needed information to complete this application.  We understand that deliberately providing accurate information or an unwillingness to timely provide the counselor with the necessary information or documents to assist us will result in a closing of our file. (Co-Applicant)",
+        header: "DECLARATION: By signing this application I certify that the information I/We provided in this application for assistance is CORRECT and FACTUAL.  No information has been withheld.  We understand the necessity for accurate and complete information and we will provide any needed information to complete this application.  We understand that deliberately providing accurate information or an unwillingness to timely provide the counselor with the necessary information or documents to assist us will result in a closing of our file. (Applicant)",
         inputs: [
             {
                 label: "",
