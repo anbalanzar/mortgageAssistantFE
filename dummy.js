@@ -1,0 +1,156 @@
+'applicant',
+ 'countryOfigin',
+ 'foreclosureHearingDate',
+ 'foreclosureSaleDate',
+ 'countryResideIn',
+ 'ruralAreaStatus',
+ 'residencyStatus',
+ 'monthlyHousePayment',
+ 'applicantCurrentOnHousePayment',
+ 'timeAtCurrentAddress',
+ 'applicantRace',
+ 'applicantEthnicity',
+ 'applicantDoB',
+ 'applicantGender',
+ 'applicantMaritalStatus',
+ 'applicantCitizenship',
+ 'applicantBornInUS',
+ 'dependants',
+ 'preferredLanguage',
+ 'applicantHighestEducation',
+ 'applicantDisabled',
+ 'applicantVeteran',
+ 'applicantTaxRepayment',
+ 'applicantReceiveChildSupport',
+ 'applicantPayChildSupport',
+ 'applicantDisabilitySocialSecurity',
+ 'applicantRetirementOther',
+ 'applicantIsEmployed',
+ 'applicantEmploymentHistory',
+ 'applicantPayFrequency',
+ 'applicantEmploymentHistory2',
+ 'applicantIsBankrupt',
+ 'applicantIsPrimaryResidence',
+ 'applicantIsRetiredAndReceivingIncome',
+ 'applicantIsActiveOrPastMilitary',
+ 'applicantIsCurrentOnUtilities',
+ 'applicantWorkingWithOtherAgency',
+ 'applicantDuplicationBenefits',
+ 'applicantCovidAffected',
+ 'applicantHardshipIncomeReduction',
+ 'applicantHardshipJobLoss',
+ 'applicantHardshipDivorce',
+ 'applicantHardshipFamilyDeath',
+ 'applicantHardshipIllness',
+ 'applicantHardshipCarRepairs',
+ 'applicantHardshipIncreaseInExpenses',
+ 'applicantHardshipHomeRepairs',
+ 'applicantHardshipMedicalExpenses',
+ 'applicantHardshipOther',
+ 'applicantFinancialAssistance',
+ 'applicantMortgageAssistance',
+ 'applicantCrisisBudgeting',
+ 'applicantLegalReferral',
+ 'applicantFundsAvailable',
+ 'applicantIfBroughtCurrent',
+ 'applicantActivelyMakeFullPayments',
+ 'applicantActivelyMakePartialPayments',
+ 'applicantLenderToOutstandingBalance',
+ 'applicantUSStatus',
+ 'lenderInfo',
+ 'applicantMonthlyNetIncome',
+ 'applicantSpouseMonthlyNetIncome',
+ 'applicantChildSupport',
+ 'applicantSpousalSupport',
+ 'applicantRetirementIncome',
+ 'applicantSocialSecurityIncome',
+ 'applicantOtherIncome',
+ 'applicantOtherMonthlyIncome1',
+ 'applicantOtherMonthlyIncome2',
+ 'applicantMortgagePayment',
+ 'applicantAutoLoanPayment',
+ 'applicantDebtConsolidation',
+ 'applicantStudentLoanPayment',
+ 'applicantHomeownerAssocFee',
+ 'applicantElectricityPayment',
+ 'applicantOilPayment',
+ 'applicantWaterPayment',
+ 'applicantGarbagePayment',
+ 'applicantLandPhonePayment',
+ 'applicantMobilePayment',
+ 'applicantCablePayment',
+ 'applicantStreamingPayment',
+ 'applicantCarInsurancePayment1',
+ 'applicantCarInsurancePayment2',
+ 'applicantHealthInsurancePayment',
+ 'applicantChildSupportPayment',
+ 'applicantAlimonyPayment',
+ 'applicantRetirementSavings',
+ 'applicantEmergencyFundsSavings',
+ 'applicantCreditCard1',
+ 'applicantCreditCard2',
+ 'applicantCreditCard3',
+ 'applicantCreditCard4',
+ 'applicantCreditCard5',
+ 'applicantOtherCredit',
+ 'applicantOtherCreditLine1',
+ 'applicantOtherCreditLine2',
+ 'applicantFoodDeliveries',
+ 'applicantFoodGroceries',
+ 'applicantGasToolsParking',
+ "applicantPublicTransportation"
+"applicantHealthClubMembership"
+"applicantDailySnack"
+"applicantLaundry"
+"applicantHouseholdItems"
+"applicantPetCare"
+"applicantOtherPeople"
+"applicantBabyItems"
+"applicantChildrenAllowances"
+"applicantGrooming"
+"applicantClothes"
+"applicantBabysitterDaycare"
+"applicantExpensesForChildren"
+"applicantATMFees"
+"applicantBankFees"
+"applicantDonations"
+"applicantOccupationalFees"
+"applicantEmergencySavings"
+"applicantMiscSpending"
+"applicantPostageFees"
+"isThereCoApplicant"
+"coApplicant"
+"coApplicantRace"
+"coApplicantEthnicity"
+"coApplicantDoB"
+"coApplicantGender"
+"coApplicantMaritalStatus"
+"coApplicantCitizenship"
+"coApplicantBornInUS"
+"coApplicantHighestEducation"
+"coApplicantDisabled"
+"coApplicantVeteran"
+"coApplicantTaxRepayment"
+"coApplicantReceiveChildSupport"
+"coApplicantPayChildSupport"
+"coApplicantDisabilitySocialSecurity"
+"coApplicantRetirementOther"
+"coApplicantEmploymentHistory"
+"coApplicantPayFrequency"
+"coApplicantEmploymentHistory2"
+"coApplicantIsBankrupt"
+"coApplicantIsPrimaryResidence"
+"coApplicantIsEmployed"
+"coApplicantIsRetiredAndReceivingIncome"
+"coApplicantIsActiveOrPastMilitary"
+"coApplicantIsCurrentOnUtilities"
+"coApplicantWorkingWithOtherAgency"
+"coApplicantDuplicationBenefits"
+"coApplicantCovidAffected"
+"coApplicantFundsAvailable"
+"applicantCourseAcknowledgement"
+"coApplicantCourseAcknowledgement"
+"applicantDeclaration"
+"coApplicantDeclaration"
+"applicantCertification"
+"coApplicantCertification"
